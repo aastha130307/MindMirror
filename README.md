@@ -58,6 +58,14 @@ It automatically detects:
 📦 Data Handling: Pandas  
 
 ---
+## Requirements:-
+streamlit
+textblob
+transformers
+torch
+matplotlib
+pandas
+wordcloud
 
 ## ⚙️ Installation
 
