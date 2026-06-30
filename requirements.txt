@@ -1,8 +1,5 @@
 streamlit
-sqlite3
 pandas
 matplotlib
 textblob
-transformers
-torch
 wordcloud
